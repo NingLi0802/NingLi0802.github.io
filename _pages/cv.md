@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "个人简介"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+研究方向
+======
+* 数理政治经济学，马克思主义经济学
+* 中国经济
+* 经济思想史
 
 教育经历
 ======
