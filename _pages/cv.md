@@ -9,56 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
 * 2022.08-，清华大学社会科学学院经济学研究所，理论经济学
 * 2018.08-2022.06，清华大学社会科学学院经济学研究所，经济学
 * 2019.08-2022.06，清华大学经济与管理学院，管理学（双学位）
 
-Work experience
+论文发表
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 李帮喜，李宁，熊子仪*：《新旧动能转换与高质量发展：理论阐释、基本逻辑与实践路径》，《数量经济技术经济研究》2025年第12期。
+* 李帮喜，李宁：《当代资本主义劳动力市场分层：激进政治经济学的理论演进与启示》，《理论学刊》2025年第5期。
+* 李帮喜，李宁：《产业资本类型识别、有效投资与“以虚促实”：基于马克思资本循环理论的研究》，《经济学动态》2025年第8期。
+* 李帮喜，李宁：《固定资本理论：一个数理政治经济学述评》，《学海》2025年第2期。
+* 李帮喜，李宁*：《经济波动、增长与实际产出水平：马克思—谢克的视角》，《政治经济学评论》2025年第6期。
+* 李宁，赵青矣*：《市场模拟、阶段发展与社会主义经济：兰格经济思想评述》，《政治经济学报》2025年第33卷。
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+工作论文
+======
+* 李帮喜，李宁，郝大鹏*：《扩大内需、优化消费结构与经济增长模式转型》
+* 李帮喜，李宁，唐伟博*：《固定资本的折旧、更新与技术进步：基于马克思社会再生产理论的分析》
+* 李帮喜，李宁：《制造业内卷、技术进步类型与经济高质量发展》
+* 李帮喜，李宁，赵奕菡*《人口增长、劳动优化与经济发展：政治经济学视角的内生动力》
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+助教经历
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2022年秋季学期: 《中国经济专题》
+  * 清华大学经济学本科专业核心课程
+  * 授课教师；李帮喜 清华大学社会科学学院（长聘）副教授
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2023年春季学期：《货币金融政治经济学》
+  * 清华大学社科学院研究生课程
+  * 授课教师；赵准 清华大学社会科学学院副教授
+
+* 2023年秋季学期：《数理政治经济学》
+  * 清华大学社科学院研究生课程
+  * 授课教师；李帮喜 清华大学社会科学学院（长聘）副教授
+ 
+* 2024年春季学期：《中级政治经济学》
+  * 清华大学经济学本科专业课程
+  * 授课教师；赵准 清华大学社会科学学院副教授
   
-Talks
+学生工作经历
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2024.08-2025.08，清华大学至善书院，党建辅导员、党支部书记
+* 2024.08-2025.07，清华大学经济学学堂班，2024级辅导员
+* 2021.06-2022.06，共青团清华大学社会科学学院委员会，副书记
+* 2019.08-2022.06，清华大学学生马克思主义学习研究协会，副会长、部长、分会长
+* 2019.08-2022.08，清华大学社会科学学院社科82班，团支部书记
+* 2018.08-2019.07，清华大学社会科学学院人文社科82B班，党课学习小组组长
