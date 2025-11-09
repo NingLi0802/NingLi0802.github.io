@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2022.08-，清华大学社会科学学院经济学研究所，理论经济学
+* 2018.08-2022.06，清华大学社会科学学院经济学研究所，经济学
+* 2019.08-2022.06，清华大学经济与管理学院，管理学（双学位）
 
 Work experience
 ======
